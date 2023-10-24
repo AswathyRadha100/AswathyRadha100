@@ -1,13 +1,7 @@
-I am an IT consultant and Data Scientist with a robust background spanning multiple domains. My accomplishments include successfully executing various data science projects involving classification, regression, and clustering tasks, where I built machine learning models, showcasing my proficiency in diverse data analysis domains. My expertise extends across a wide spectrum of IT projects covering various business sectors where I have consistently delivered excellent results. To any team I join I bring active listening to ensure understanding, and keen observation to minute details that might otherwise be missed.
+<h3 align="center">SI am an IT consultant and Data Scientist with a robust background spanning multiple domains. My accomplishments include successfully executing various data science projects involving classification, regression, and clustering tasks, where I built machine learning models, showcasing my proficiency in diverse data analysis domains. My expertise extends across a wide spectrum of IT projects covering various business sectors where I have consistently delivered excellent results. To any team I join I bring active listening to ensure understanding, and keen observation to minute details that might otherwise be missed.</h3>
 
-<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
 <hr>
 
-<h3 align="center">Powered by Cloudflare Workers ⚡</h3>
-
-<h3>NOTE: To keep icons consistent and to ensure browser support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
 
 <!--
 **AswathyRadha100/AswathyRadha100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
