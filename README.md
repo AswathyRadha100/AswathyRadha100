@@ -5,13 +5,12 @@
 <h3 align="center"> My Skills </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aswathy-radha83/">
-     <img src="https://skillicons.dev/icons?i=git,py,mysql,github" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aswathy-radha83/">
+  <a style="text-decoration: none;" href="https://www.linkedin.com/in/aswathy-radha83/">
+     <img src="https://skillicons.dev/icons?i=py,mysql,github" />
      <img src="NLP.png" width="50" height="50"/>
+     <img src="Tableau.png" width="100" height="50"/>
+     <img src="Seaborn.png" width="50" height="50"/>
+     <img src="Matplotlib.png" width="100" height="50"/>
   </a>
 </p>
 
