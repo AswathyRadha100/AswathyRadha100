@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,github" />
+    <img src="NLP.png" width="50" height="50"/>
   </a>
 </p>
 
